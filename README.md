@@ -1,5 +1,5 @@
 #
-![](https://qunjz.com/img/logo.png)
+![https://qunjz.com](https://qunjz.com/img/logo.png)
 ### https://qunjz.com
 
 Hey, I'm qunjz! I'm a Developer (mainly on roblox) and YouTuber!
