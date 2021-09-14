@@ -2,7 +2,7 @@
 ![https://qunjz.com](https://qunjz.com/img/logo.png)
 ### https://qunjz.com
 
-Hey, I'm qunjz! I'm a Developer (mainly on roblox) and YouTuber!
+Hey, I'm qunjz! I'm a frontend developer and YouTuber!
 
 Also, i don't use github for code. I just use it to fork repo's and open source things i don't use and is outdated
 
