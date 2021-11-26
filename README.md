@@ -3,3 +3,6 @@
 ### https://qunjz.com
 
 hi i am CukeNeek
+<style>
+  background-color:white;
+</style>
